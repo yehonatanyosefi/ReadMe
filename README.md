@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yehonatan Yosefi</h1>
 <h3 align="center">A enthusiastic full stack developer from Israel</h3>
 
-- 🔭 I’m currently working on **Wix Clone**
+- 🔭 Welcome to check my <a href="https://github.com/yehonatanyosefi/Funday">**Monday Clone**</a>
 
 - 📫 How to reach me **yehonatanmind@gmail.com**
 
