@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehonatan Yosefi</h1>
-<h3 align="center">A enthusiastic full stack developer from Israel</h3>
+<h3 align="center">A passionate full stack developer from Israel</h3>
 
 - 🔭 Welcome to check my <a href="https://funday-jy8b.onrender.com/#/">**Monday Clone**</a> and it's <a href="https://github.com/yehonatanyosefi/Funday">**source code**</a>
 
