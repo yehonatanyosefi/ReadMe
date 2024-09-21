@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yehonatan Yosefi</h1>
+<h1 align="center">Hi 👋, I'm Yonatan Lavy</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 
 - 🔭 Welcome to check my <a href="https://funday-jy8b.onrender.com/#/">**Monday Clone**</a> and it's <a href="https://github.com/yehonatanyosefi/Funday">**source code**</a>
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yehonatan-yosefi-1091261b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehonatan-yosefi-1091261b9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yehonatan-yosefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehonatan-yosefi-1091261b9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
